@@ -1,0 +1,9 @@
+
+.idea
+.teste
+*.sqlite3
+*pyc
+__pycache__
+landingpage.zip
+staticfiles
+.ipynb_checkpoints/

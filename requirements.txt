@@ -1,0 +1,5 @@
+
+Django
+django-test-without-migrations==0.4
+matplotlib==1.5.1
+numpy==1.10.4
