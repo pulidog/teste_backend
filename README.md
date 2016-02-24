@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Instruções
 
-no arquivo instruções.pdf
-
+no arquivo desafio.pdf,
+dois desafios,
 
 
 
@@ -34,7 +34,7 @@ no arquivo instruções.pdf
 ## Como entregar?
 
 1. comprima a pasta teste/inceres. 
-2. Envie um mail com o arquivo comprimido.
+2. Envie um mail com o arquivo comprimido, com o assunto desafio backend e seu nome.
 
 
 ```console
